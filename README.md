@@ -1,5 +1,6 @@
 # BuildDrop – Visual Studio Build Sender & Receiver
-[[[Watch the video](https://files.catbox.moe/397opl.mp4))](https://files.catbox.moe/397opl.mp4)](https://files.catbox.moe/397opl.mp4)
+[Watch a Demo](https://files.catbox.moe/397opl.mp4)
+
 Minimal utilities to push freshly built binaries from a development PC to another machine over LAN immediately after a Visual Studio build.
 For use with prototyping Windows applications on devices within your local network easily, without the use of File Shares.
 
