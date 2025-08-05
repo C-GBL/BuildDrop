@@ -89,7 +89,3 @@ To avoid failing the build on transfer errors:
   BuildSender.exe
 README.md
 ```
-
-## License
-
-MIT (or your preferred license).
