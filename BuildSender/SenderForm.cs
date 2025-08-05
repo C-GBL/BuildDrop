@@ -77,7 +77,7 @@ namespace BuildSender
                     }
                 }
 
-                lblStatus.Text = "Done ✔";
+                lblStatus.Text = "Done";
                 if (Environment.GetCommandLineArgs().Length == 4)
                     Close();
             }
@@ -88,3 +88,4 @@ namespace BuildSender
         }
     }
 }
+
